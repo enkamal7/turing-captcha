@@ -1,6 +1,6 @@
 # Turing Test & CAPTCHA — Terminal Implementation
 
-Artificial Intelligence course demonstration.
+Artificial Intelligence course demonstration. - Individual Assignment
 Two sides of the same question: **can you tell human from machine?**
 
 ---
